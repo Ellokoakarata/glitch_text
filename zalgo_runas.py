@@ -43,6 +43,8 @@ def guardar_salida(texto_entrada):
     return salida_zalgo
 
 # Ejemplo de uso
-entrada_usuario = """Binary chaos in my brain.
-                      war in my head"""
+entrada_usuario = """
+𝖕̶𝖘̶𝖞̶𝖈̶𝖍̶𝖔̶̭-̶𝖜̶𝖆̶̫𝖞̶
+𝖓̶𝖔̶̍-̶̈́𝖗̶̬𝖊̶𝖙̶́𝖚̶̄𝖗̶𝖓̶̀
+        """
 print(guardar_salida(entrada_usuario))

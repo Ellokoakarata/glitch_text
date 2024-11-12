@@ -51,7 +51,7 @@ def frame_and_save_text(text_blocks, file_name):
     print("Generated Decorative Text:")
 
 # List of phrases to be transformed and saved
-text_blocks = ["Psycho-way", "No-return"]
+text_blocks = ["𒌸𒑥𒐹𒐸𒑥𒌸𒌸𒑥𒐹𒐸𒑥𒌸𒌸𒑥", "𒌸𒑥𒐹𒐸𒑥𒌸𒌸𒑥𒐹𒐸𒑥𒌸𒌸𒑥"]
 
 # Example usage
 file_name = "outputs_gothic_zalgo_text.txt"
