@@ -64,10 +64,7 @@ def guardar_poema_transformado(poema_entrada):
     return poema_transformado
 
 # Ejemplo de uso
-poema_entrada = """En la penumbra de mis pensamientos,
-las sombras se retuercen y caen.
-El caos murmura su verdad,
-mientras la razón se desvanece."""
+poema_entrada = """5 minutes of coffee"""
 
 # Guardar y mostrar el poema transformado
 poema_estilo_gotico = guardar_poema_transformado(poema_entrada)
